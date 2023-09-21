@@ -37,7 +37,7 @@ apt update ; apt install git curl -y ; git clone https://github.com/Sidharth2064
 ### <<< If you copy , Then Give me The Credits >>>
 
 ## Find Me on :
-![Github](https://img.shields.io/badge/Github-xploit-green?style=for-the-badge&logo=github)](https://github.com/Sidharth2064)
+[![Github](https://img.shields.io/badge/Github-xploit-green?style=for-the-badge&logo=github)](https://github.com/Sidharth2064)
 [![Instagram](https://img.shields.io/badge/IG-%40xploit-red?style=for-the-badge&logo=instagram)](https://instagram.com/xploit_insta?utm_source=qr&igshid=YzU1NGVlODEzOA==)
 
 [![Telegram](https://img.shields.io/badge/Chat-Telegram-blue?style=for-the-badge&logo=Telegram)](https://t.me/xploit_telegram)
